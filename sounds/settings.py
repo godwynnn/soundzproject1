@@ -161,4 +161,4 @@ MAX_UPLOAD_SIZE='10485760'
 
 
 # Activate Django-Heroku.
-# django_heroku.settings(locals())
+django_heroku.settings(locals())
